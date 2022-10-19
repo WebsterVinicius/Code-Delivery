@@ -1,0 +1,8 @@
+docker-compose exec app bash (acessar o terminal do container app)
+nest generate (ou apenas "g") resource routes (inicia os controllers de CRUD no nest - API REST - YES)
+
+npm install mongoose @nestjs/mongoose --save
+
+npm install @nestjs/config --save (biblioteca para ler as variaveis de ambiente)
+
+•• extensão REST client •• (

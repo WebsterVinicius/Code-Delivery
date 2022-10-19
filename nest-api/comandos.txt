@@ -1,0 +1,4 @@
+which npx (verifica se há o npx instalado)
+npm install -g npx (instala o npx global)
+npx @nestjs/cli new nest api (cria aplicação nest)
+npm start (roda a aplicação nest)
